@@ -12,5 +12,6 @@ nav_config:
 
 url: "https://isallcaps.github.io"
 
-permalink: /:categories/:title/
-markdown: GFM
+permalink: pretty
+markdown: kramdown
+
