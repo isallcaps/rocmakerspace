@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Handbook Home
-parent: Stained Glass
-nav_order: 10
+parent: Stained Glass Area
+nav_order: 1
 ---
 
 # Stained Glass Area Handbook
@@ -21,5 +21,5 @@ This handbook provides members with clear guidance on using the Stained Glass ar
 * [**WIP Storage Guidelines**](./storage.md) - *Project boards and storage duration.*
 * [**Maintenance & Cleaning**](./maintenance.md) - *Your responsibilities and the Closing Checklist.*
 * [**Safety Guidelines**](./safety.md) - *Personal protection and chemical safety.*
-* [**Class-Only Materials**](./classes.md) - *Restricted supplies for workshop use.*
+* [**Class-Only Materials**](class-only.md) - *Restricted supplies for workshop use.*
 * [**Appendix: Shopping Guide**](./shopping.md) - *Where to buy your own glass and supplies.*

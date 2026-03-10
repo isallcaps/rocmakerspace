@@ -3,7 +3,7 @@ layout: page
 title: Stained Glass Classes
 parent: Stained Glass Area
 has_children: true
-nav_order: 1
+nav_order: s
 ---
 
 # 🎓 Stained Glass Classes

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class-Only Materials
-parent: Stained Glass Area
+parent: Area Handbook
 nav_order: 60
 ---
 

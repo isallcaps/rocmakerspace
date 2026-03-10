@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maintenance & Checklist
-parent: Stained Glass Area
+parent: Area Handbook
 nav_order: 40
 ---
 

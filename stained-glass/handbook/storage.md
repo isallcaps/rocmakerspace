@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WIP Storage
-parent: Stained Glass Area
+parent: Area Handbook
 nav_order: 50
 ---
 

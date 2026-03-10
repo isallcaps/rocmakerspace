@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Safety Guidelines
-parent: Stained Glass Area
+parent: Area Handbook
 nav_order: 30
 ---
 

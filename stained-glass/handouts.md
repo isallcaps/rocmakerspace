@@ -3,7 +3,7 @@ layout: page
 title: Printable Handouts
 parent: Stained Glass Area
 has_children: true
-nav_order: 80
+nav_order: 3
 ---
 
 # 📄 Printable Handouts

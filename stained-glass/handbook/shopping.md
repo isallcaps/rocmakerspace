@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Where to Buy Supplies
-parent: Stained Glass Area
+parent: Area Handbook
 nav_order: 70
 ---
 

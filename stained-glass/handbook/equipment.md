@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Equipment & Grinder Guide
-parent: Stained Glass Area
+parent: Area Handbook
 nav_order: 20
 ---
 
