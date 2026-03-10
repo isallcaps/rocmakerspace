@@ -1,0 +1,13 @@
+# Site settings
+title: Rochester Makerspace Docs
+description: Handbooks and Resources
+remote_theme: just-the-docs/just-the-docs
+
+# Color scheme (Optional)
+color_scheme: dark
+
+# Setting up the navigation
+nav_config:
+  look_for_landing_page: true
+
+url: "https://isallcaps.github.io"

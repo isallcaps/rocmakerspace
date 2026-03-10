@@ -1,0 +1,21 @@
+# --- WebStorm / IntelliJ ---
+.idea/
+*.iml
+/shelf/
+/workspace.xml
+/queries/
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
+
+# --- Jekyll / Ruby ---
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+bin/
+Gemfile.lock
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
