@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WIP Storage
-parent: Area Handbook
+parent: Handbook
 nav_order: 50
 ---
 

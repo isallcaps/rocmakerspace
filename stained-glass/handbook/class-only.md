@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class-Only Materials
-parent: Area Handbook
+parent: Handbook
 nav_order: 60
 ---
 

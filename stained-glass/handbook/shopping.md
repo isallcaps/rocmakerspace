@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Where to Buy Supplies
-parent: Area Handbook
+parent: Handbook
 nav_order: 70
 ---
 

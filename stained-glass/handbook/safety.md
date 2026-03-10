@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Safety Guidelines
-parent: Area Handbook
+parent: Handbook
 nav_order: 30
 ---
 

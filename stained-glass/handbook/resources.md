@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources & Supplies
-parent: Area Handbook
+parent: Handbook
 nav_order: 10
 ---
 

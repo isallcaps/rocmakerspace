@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Handbook Home
+title: Handbook
 parent: Stained Glass Area
 nav_order: 1
+has_children: true
 ---
 
 # Stained Glass Area Handbook

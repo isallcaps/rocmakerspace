@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maintenance & Checklist
-parent: Area Handbook
+parent: Handbook
 nav_order: 40
 ---
 

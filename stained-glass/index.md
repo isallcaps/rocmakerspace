@@ -19,5 +19,5 @@ Master copies of area log sheets, WIP forms, and class materials.
 Detailed handouts and guides for Intro to Stained Glass.
 
 ## 👤 Contact Info
-**Area Manager:** Kim Nguyen
+**Area Manager:** Kim Nguyen  
 **Email:** [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org)
