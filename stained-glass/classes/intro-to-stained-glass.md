@@ -8,9 +8,12 @@ nav_order: 1
 # Introduction to Stained Glass
 **at the Rochester Makerspace** **Instructor:** Kim Nguyen | [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org)
 
-> [!TIP]
-> **Printable Handout:** This page is optimized for printing. Press `Ctrl+P` (Windows) or `Cmd+P` (Mac) to generate a clean paper copy for the workshop.
-
+<div class="no-print">
+  <blockquote>
+    [!TIP]
+    <b>Taking this class?</b> You can print this page directly from your browser (Ctrl+P or Cmd+P). The layout is optimized to hide this message and the sidebar automatically!
+  </blockquote>
+</div>
 ---
 
 ## 1. Design & Layout

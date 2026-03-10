@@ -1,0 +1,21 @@
+// --- PRINT FIXES ---
+@media print {
+  // Force high-contrast black for all text
+  body, h1, h2, h3, h4, p, li, blockquote {
+    color: #000000 !important;
+  }
+  // Hide the navigation menus
+  .side-bar, .site-header, .site-footer, .nav-list, .site-nav {
+    display: none !important;
+  }
+  // Make the content fill the paper
+  .main {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+}
