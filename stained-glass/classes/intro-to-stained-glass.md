@@ -60,7 +60,7 @@ nav_order: 1
 * **Technique:** "Tack" solder all joints, then remove thumb tacks. Try to get a smooth raised bead of solder.
 * **Heat Management:** Avoid overworking an area. Let the piece cool to avoid "melt-through" on the other side.
 
-> [!DANGER]
+> [!CAUTION]
 > ### ⚠️ Safety: Soldering (700°F+)
 > * **No Gloves:** Never wear gloves while soldering; they can melt into a much worse burn. Wear an apron instead.
 > * **Fumes:** Use a fan or ventilation—burning flux creates fumes.
