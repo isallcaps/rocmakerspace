@@ -2,6 +2,7 @@
 layout: page
 title: Where to Buy Supplies
 parent: Stained Glass Area
+nav_order: 70
 ---
 
 # 🛍️ Where to Buy Supplies

@@ -2,7 +2,7 @@
 layout: page
 title: Resources & Supplies
 parent: Stained Glass Area
-nav_order: 2
+nav_order: 10
 ---
 
 # 📦 Resources & Supplies

@@ -2,6 +2,7 @@
 layout: page
 title: Maintenance & Checklist
 parent: Stained Glass Area
+nav_order: 40
 ---
 
 # 🧹 Maintenance & Closing

@@ -2,6 +2,7 @@
 layout: page
 title: Equipment & Grinder Guide
 parent: Stained Glass Area
+nav_order: 20
 ---
 
 # 🛠️ Equipment Use & Grinder SOP

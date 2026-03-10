@@ -11,3 +11,5 @@ nav_config:
   look_for_landing_page: true
 
 url: "https://isallcaps.github.io"
+
+permalink: /:categories/:title/

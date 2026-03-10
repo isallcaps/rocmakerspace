@@ -2,6 +2,7 @@
 layout: page
 title: WIP Storage
 parent: Stained Glass Area
+nav_order: 50
 ---
 
 # 📦 Work-In-Progress (WIP) Storage

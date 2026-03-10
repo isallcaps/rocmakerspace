@@ -2,6 +2,7 @@
 layout: page
 title: Safety Guidelines
 parent: Stained Glass Area
+nav_order: 30
 ---
 
 # ⚠️ Safety Guidelines

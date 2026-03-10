@@ -2,7 +2,7 @@
 layout: page
 title: Handbook Home
 parent: Stained Glass
-nav_order: 1
+nav_order: 10
 ---
 
 # Stained Glass Area Handbook

@@ -2,7 +2,7 @@
 layout: page
 title: Class-Only Materials
 parent: Stained Glass Area
-nav_order: 7
+nav_order: 60
 ---
 
 # 🎓 Class-Only Materials
