@@ -6,11 +6,12 @@ nav_order: 1
 ---
 
 # Introduction to Stained Glass
-| Organization | Rochester Makerspace                                            |
-| :--- |:----------------------------------------------------------------|
-| **Instructor** | Kim Nguyen                                                      |
-| **Email** | [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org) |
 
+| Organization   | Rochester Makerspace                                            |
+|:---------------|:----------------------------------------------------------------|
+| **Instructor** | Kim Nguyen                                                      |
+| **Email**      | [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org) |
+| **Revised**    | March 14, 2026                                                  |
 
 > ## Welcome to the Glass Area!
 >  In this class, you will learn the "Copper Foil" (or Tiffany) method. You will transform raw sheets of glass into a finished suncatcher by learning to score, break, grind, foil, and solder.
