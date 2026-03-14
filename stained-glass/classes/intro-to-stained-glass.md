@@ -6,7 +6,15 @@ nav_order: 1
 ---
 
 # Introduction to Stained Glass
-**at the Rochester Makerspace** **Instructor:** Kim Nguyen | [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org)
+| Organization | Rochester Makerspace                                            |
+| :--- |:----------------------------------------------------------------|
+| **Instructor** | Kim Nguyen                                                      |
+| **Email** | [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org) |
+
+
+> ## Welcome to the Glass Area!
+>  In this class, you will learn the "Copper Foil" (or Tiffany) method. You will transform raw sheets of glass into a finished suncatcher by learning to score, break, grind, foil, and solder.
+
 
 ## 1. Design & Layout
 * **Pattern Check:** Make sure the curves/angles in the pattern are achievable in glass.
@@ -40,9 +48,9 @@ nav_order: 1
 
 
 ## 4. Applying Copper Foil
-* **Prep:** Thoroughly clean and dry all glass pieces before this step.
+* **Prep:** Thoroughly clean and dry all glass pieces before this step. Gently wipe/pat edges with alcohol prior to foiling.
 * **Placement:** Do not start tape on an edge that will be on the outside of the final project.
-* **Technique:** Attach tape and "roll" glass piece towards you, keeping it centered.
+* **Technique:** Attach tape and "roll" glass piece towards you, keeping it centered.  Guide the fold so it attaches properly.
 * **Burnishing:** **Important:** Burnish tape well with a Sharpie, pencil, or burnishing tool.
 * *Note: Foil is easy to remove at first, but requires a scraper once pressed on.*
 
@@ -51,6 +59,7 @@ nav_order: 1
 * **Preparation:** Remember to **always apply flux first!**
 * **Technique:** "Tack" solder all joints, then remove thumb tacks. Try to get a smooth raised bead of solder.
 * **Heat Management:** Avoid overworking an area. Let the piece cool to avoid "melt-through" on the other side.
+
 
 {: .caution }
 > ### ⚠️ Safety: Soldering (700°F+)
@@ -77,6 +86,3 @@ nav_order: 1
 - [ ] Tools and projects put away
 - [ ] Work area swept and floor wet-mopped
 - [ ] Lights turned off
-
----
-_Last Updated: March 10, 2026 by Kim Nguyen_
