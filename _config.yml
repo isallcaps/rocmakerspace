@@ -15,3 +15,19 @@ url: "https://isallcaps.github.io"
 permalink: pretty
 markdown: kramdown
 
+callouts:
+  caution:
+    title: Caution
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red

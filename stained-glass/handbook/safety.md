@@ -8,7 +8,7 @@ description: Personal protection and chemical safety.
 
 # ⚠️ Safety Guidelines
 
-> [!WARNING]
+{: .warning }
 > **Ventilation:** Turn on the ventilation fan when soldering to reduce exposure to fumes.
 
 * **PPE:** Safety glasses are required when cutting or grinding. Masks or respirators are highly recommended.

@@ -19,7 +19,7 @@ nav_order: 1
 * **The Score:** One score, one cut. Cut on the smoother side of glass (flip your cutout before tracing if you want the textured side on the front of your project).
 * **Breaking:** Use running pliers for straight breaks; tap the back side of glass for curves.
 
-> [!WARNING]
+{: .warning }
 > ### ⚠️ Safety: Cutting
 > * **Eye protection** is a must for this (and every) step.
 > * Never lean on your work surface (it may contain invisible slivers of glass).
@@ -31,7 +31,7 @@ nav_order: 1
 * **Maintenance:** Keep the sponge and wheel wet at all times! Add water periodically.
 * **Marking:** Use a Sharpie to mark areas of glass that require extra grinding.
 
-> [!WARNING]
+{: .warning }
 > ### ⚠️ Safety: Grinding
 > * **Water is essential** to avoid hazardous airborne glass dust.
 > * Glass can "kick back" if pushed onto the wheel at the wrong angle.
@@ -52,7 +52,7 @@ nav_order: 1
 * **Technique:** "Tack" solder all joints, then remove thumb tacks. Try to get a smooth raised bead of solder.
 * **Heat Management:** Avoid overworking an area. Let the piece cool to avoid "melt-through" on the other side.
 
-> [!CAUTION]
+{: .caution }
 > ### ⚠️ Safety: Soldering (700°F+)
 > * **No Gloves:** Never wear gloves while soldering; they can melt into a much worse burn. Wear an apron instead.
 > * **Fumes:** Use a fan or ventilation—burning flux creates fumes.

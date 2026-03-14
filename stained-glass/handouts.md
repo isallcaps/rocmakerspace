@@ -18,6 +18,7 @@ If the binder is low, please print a few extra copies of these:
 
 * [**Area Log Sheet (PDF)**](./assets/handouts/area-log-sheet.pdf)
 * [**WIP Storage Form (PDF)**](./assets/handouts/wip-form.pdf)
+* * [**Inactive Board Form (PDF)**](./assets/handouts/Inactive-Board-Form.pdf)
 
 ### 🎨 Classroom Materials
 * [**Intro to Stained Glass (Web Version)**](./classes/intro-to-stained-glass.md)

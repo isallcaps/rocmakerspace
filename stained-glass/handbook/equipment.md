@@ -19,7 +19,7 @@ description: General care and the Glass Grinder SOP.
 ## 💎 Glass Grinder Standard Operating Procedure
 **By using the grinder, you agree to leave it ready for the next person.**
 
-> [!IMPORTANT]
+{: .important }
 > **Glass powder is hazardous to breathe.** Never operate the grinder without water. Ensure at least ¼ inch of water is in the reservoir and the sponge/bit are thoroughly wet before starting.
 
 ### After You Finish (Required Cleaning)

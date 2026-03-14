@@ -9,7 +9,7 @@ nav_order: 60
 
 Items labeled **Class Use Only** are reserved for instruction.
 
-> [!CAUTION]
+{: .caution }
 > Unauthorized use of these materials may result in disciplinary action.
 
 ### 📋 Restricted Items
