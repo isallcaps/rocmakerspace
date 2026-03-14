@@ -10,7 +10,7 @@ nav_order: 3
 
 The following forms and guides are available for use in the Stained Glass shop.
 
-> [!TIP]
+{: .note }
 > **Physical Copies:** You can find pre-printed versions of these in the **Blue Binder** on the shelf above the grinders.
 
 ## 📋 Shop Forms
