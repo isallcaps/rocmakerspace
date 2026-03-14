@@ -33,9 +33,15 @@ All Makerspace-provided tools and materials must remain on-site at all times.
 ## 2. What Members Must Provide
 Members are responsible for supplying their own primary materials and personal safety gear:
 
-* **Project Materials:** Glass sheets (for projects beyond scrap size), Solder (60/40), Copper foil (7/32" black-backed recommended), and Jump rings.
-* **Personal Tools:** X-Acto knives, Sharpies, or any specialized hand tools.
-* **Safety Gear:** Safety glasses and masks.
+* Glass sheets
+* Copper foil (black-backed 7/32" recommended)
+* Solder: (60/40 — 60% tin, 40% lead)
+* Jump rings
+* Additional personal tools (optional)
+  * Sharpies
+  * X-Acto Knife
+  * Safety Glasses
+  * Mask
 
 ---
 

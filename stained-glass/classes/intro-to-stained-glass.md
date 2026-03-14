@@ -87,3 +87,14 @@ nav_order: 1
 - [ ] Tools and projects put away
 - [ ] Work area swept and floor wet-mopped
 - [ ] Lights turned off
+
+---
+
+## 🛠️ Supplies & Materials
+The Makerspace provides the heavy equipment (grinders, irons, etc.), but there are certain consumables and personal items you will need.
+
+While the Makerspace provides tools for this class, independent projects require members to bring certain materials.
+
+> ### 📝 What do I need to bring?
+> Please check the **[Resources & Supplies](../handbook/resources.md)** page for a full breakdown of what the shop provides (grinders, irons, flux) vs. what you need to provide (glass, solder, foil).
+---
