@@ -3,6 +3,7 @@ layout: page
 title: Where to Buy Supplies
 parent: Handbook
 nav_order: 70
+description: Where to buy your own glass and supplies.
 ---
 
 # 🛍️ Where to Buy Supplies

@@ -8,14 +8,6 @@ nav_order: 1
 # Introduction to Stained Glass
 **at the Rochester Makerspace** **Instructor:** Kim Nguyen | [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org)
 
-<div class="no-print">
-  <blockquote>
-    [!TIP]
-    <b>Taking this class?</b> You can print this page directly from your browser (Ctrl+P or Cmd+P). The layout is optimized to hide this message and the sidebar automatically!
-  </blockquote>
-</div>
----
-
 ## 1. Design & Layout
 * **Pattern Check:** Make sure the curves/angles in the pattern are achievable in glass.
 * **Organization:** Number each cutout; write down notes for colors, textures, and/or grain direction.

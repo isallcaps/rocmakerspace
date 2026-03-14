@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Maintenance & Checklist
+title: Maintenance & Closing
 parent: Handbook
 nav_order: 40
+description: Your responsibilities and the Closing Checklist.
 ---
 
-# 🧹 Maintenance & Closing
+# 🧹 Maintenance & Closing Checklist
 
 ## Member Responsibilities
 * **Dust Control:** Wet-wipe surfaces to prevent spreading glass powder. **No dry sweeping.**

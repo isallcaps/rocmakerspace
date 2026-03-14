@@ -8,12 +8,9 @@ has_children: true
 
 # Stained Glass Area Handbook
 
-## 1. Purpose of This Handbook
+## Purpose of This Handbook
 This handbook provides members with clear guidance on using the Stained Glass area safely, responsibly, and collaboratively. It outlines what the Makerspace provides, what members must bring, and the policies, maintenance expectations, and procedures that ensure this area remains accessible and functional for everyone.
-## 2. Contact Information
-* **Area Manager:** Kim Nguyen
-* **Email:** [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org)
-* **Discord:** @Kim (Stained Glass A.M.)
+
 ---
 
 ## 📘 Handbook Sections
@@ -23,4 +20,4 @@ This handbook provides members with clear guidance on using the Stained Glass ar
 * [**Maintenance & Cleaning**](./maintenance.md) - *Your responsibilities and the Closing Checklist.*
 * [**Safety Guidelines**](./safety.md) - *Personal protection and chemical safety.*
 * [**Class-Only Materials**](class-only.md) - *Restricted supplies for workshop use.*
-* [**Appendix: Shopping Guide**](./shopping.md) - *Where to buy your own glass and supplies.*
+* [**Where to Buy Supplies**](./shopping.md) - *Where to buy your own glass and supplies.*

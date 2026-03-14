@@ -2,10 +2,11 @@
 layout: page
 title: WIP Storage
 parent: Handbook
-nav_order: 50
+nav_order: 30
+description: Project boards and storage duration.
 ---
 
-# 📦 Work-In-Progress (WIP) Storage
+# 📦 Work-In-Progress (WIP) Storage Guidelines
 
 Members may store **one** stained glass project in progress on-site.
 

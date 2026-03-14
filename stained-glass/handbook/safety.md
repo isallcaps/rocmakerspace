@@ -2,7 +2,8 @@
 layout: page
 title: Safety Guidelines
 parent: Handbook
-nav_order: 30
+nav_order: 50
+description: Personal protection and chemical safety.
 ---
 
 # ⚠️ Safety Guidelines

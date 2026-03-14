@@ -20,4 +20,5 @@ Detailed handouts and guides for Intro to Stained Glass.
 
 ## 👤 Contact Info
 **Area Manager:** Kim Nguyen  
-**Email:** [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org)
+**Email:** [stainedglass@rocmakers.org](mailto:stainedglass@rocmakers.org)  
+**Discord:** @Kim (Stained Glass A.M.)

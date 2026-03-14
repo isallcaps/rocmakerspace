@@ -3,6 +3,7 @@ layout: page
 title: Resources & Supplies
 parent: Handbook
 nav_order: 10
+description: Makerspace vs. Member provided, and donations.
 ---
 
 # 📦 Resources & Supplies

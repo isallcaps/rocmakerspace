@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Equipment & Grinder Guide
+title: Tool Use & Equipment Guide
 parent: Handbook
 nav_order: 20
+description: General care and the Glass Grinder SOP.
 ---
 
-# 🛠️ Equipment Use & Grinder SOP
+# 🛠️ Tool Use & Equipment Guide
 
 ## General Tool Care
 * **Responsibility:** Use tools responsibly and return them to their designated locations.
